@@ -1,3 +1,3 @@
 # Another Chatbot
 
-Testing chatbots using flask
+Testing Whatsapp chatbots using flask
